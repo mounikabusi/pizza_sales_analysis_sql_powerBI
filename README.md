@@ -126,5 +126,14 @@ ORDER BY total_revenue;
 # Result:
 <img width="329" height="119" alt="image" src="https://github.com/user-attachments/assets/5ae44d4b-5e11-4875-bdaa-57da7ad16677" />
 
+# Key Insights
+- Peak pizza sales occurred during afternoon and evening hours, indicating high customer demand during meal times.
+- Large-sized pizzas contributed significantly to overall revenue.
+- A few pizza categories generated the majority of total sales.
+- Certain pizzas consistently underperformed and may require promotional strategies.
+- Revenue trends showed fluctuations across different months, indicating seasonal demand patterns.
+- High-volume orders suggested opportunities for combo offers and group meal promotions.
+
+
 ## Author
 Mounika Busi
