@@ -1,5 +1,5 @@
 # pizza_sales_analysis_sql_powerBI
-SQL-based pizza sales analysis project using PostgreSQL to analyze revenue trends, customer ordering patterns, top-selling pizzas, peak sales hours, and business performance insights.
+SQL-based pizza sales analysis project using MySQL to analyze revenue trends, customer ordering patterns, top-selling pizzas, peak sales hours, and business performance insights.
 
 # Dashboard Preview
 <img width="1320" height="743" alt="pizza_sales_analysis" src="https://github.com/user-attachments/assets/425c64d3-d7b6-4cb1-99f6-a19d5fd834b8" />
